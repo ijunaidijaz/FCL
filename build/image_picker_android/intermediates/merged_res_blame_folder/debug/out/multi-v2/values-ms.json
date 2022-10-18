@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/a1398/Desktop/fcl/FCLApp/build/image_picker_android/intermediates/incremental/mergeDebugResources/merged.dir/values-ms/values-ms.xml",
+            "map": [
+                {
+                    "source": "/Users/a1398/.gradle/caches/transforms-3/9952001996459cf388d04141bc90efc4/transformed/core-1.8.0/res/values-ms/values-ms.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/a1398/Desktop/fcl/FCLApp/build/image_picker_android/intermediates/merged_res/debug/values-ms/values-ms.xml",
+            "map": [
+                {
+                    "source": "/Users/a1398/.gradle/caches/transforms-3/9952001996459cf388d04141bc90efc4/transformed/core-1.8.0/res/values-ms/values-ms.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+#Thu Sep 15 16:45:57 PKT 2022
+base.0=/Users/a1398/Desktop/fcl/FCLApp/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

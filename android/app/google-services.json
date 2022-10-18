@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "954475813949",
+    "project_id": "fcl-mobile",
+    "storage_bucket": "fcl-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954475813949:android:a793a5a33e42d1b5291e54",
+        "android_client_info": {
+          "package_name": "com.bizzclain.fcl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954475813949-5klo74l78035kqm27j4e34ekjef83sfg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7R5OAhr_vgdkuaDGRYmBjLpTa-Vvy0lA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954475813949-5klo74l78035kqm27j4e34ekjef83sfg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "954475813949-qjae7fgikkj8hdfse0ibapunau9quih7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fcl"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

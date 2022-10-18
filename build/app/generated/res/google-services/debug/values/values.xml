@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">954475813949-5klo74l78035kqm27j4e34ekjef83sfg.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">954475813949</string>
+    <string name="google_api_key" translatable="false">AIzaSyD7R5OAhr_vgdkuaDGRYmBjLpTa-Vvy0lA</string>
+    <string name="google_app_id" translatable="false">1:954475813949:android:a793a5a33e42d1b5291e54</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD7R5OAhr_vgdkuaDGRYmBjLpTa-Vvy0lA</string>
+    <string name="google_storage_bucket" translatable="false">fcl-mobile.appspot.com</string>
+    <string name="project_id" translatable="false">fcl-mobile</string>
+</resources>

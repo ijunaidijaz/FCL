@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/a1398/Desktop/fcl/FCLApp/build/email_launcher/intermediates/incremental/mergeReleaseResources/merged.dir/values-da/values-da.xml",
+            "map": [
+                {
+                    "source": "/Users/a1398/.gradle/caches/transforms-3/3d5755931a5b4e7e4e8e61f20811221b/transformed/core-1.6.0/res/values-da/values-da.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/a1398/Desktop/fcl/FCLApp/build/email_launcher/intermediates/merged_res/release/values-da/values-da.xml",
+            "map": [
+                {
+                    "source": "/Users/a1398/.gradle/caches/transforms-3/3d5755931a5b4e7e4e8e61f20811221b/transformed/core-1.6.0/res/values-da/values-da.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/a1398/Desktop/fcl/FCLApp/build/firebase_messaging/intermediates/merged_res/release/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "/Users/a1398/.gradle/caches/transforms-3/d49c59fa6edf28b276480d1173fe673c/transformed/jetified-play-services-base-18.0.1/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/a1398/Desktop/fcl/FCLApp/build/firebase_messaging/intermediates/merged_res/release/drawable-xxhdpi-v4/googleg_disabled_color_18.png",
+        "source": "/Users/a1398/.gradle/caches/transforms-3/d49c59fa6edf28b276480d1173fe673c/transformed/jetified-play-services-base-18.0.1/res/drawable-xxhdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/a1398/Desktop/fcl/FCLApp/build/firebase_messaging/intermediates/merged_res/release/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "/Users/a1398/.gradle/caches/transforms-3/d49c59fa6edf28b276480d1173fe673c/transformed/jetified-play-services-base-18.0.1/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/a1398/Desktop/fcl/FCLApp/build/firebase_messaging/intermediates/merged_res/release/drawable-xxhdpi-v4/googleg_standard_color_18.png",
+        "source": "/Users/a1398/.gradle/caches/transforms-3/d49c59fa6edf28b276480d1173fe673c/transformed/jetified-play-services-base-18.0.1/res/drawable-xxhdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/a1398/Desktop/fcl/FCLApp/build/firebase_messaging/intermediates/merged_res/release/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "/Users/a1398/.gradle/caches/transforms-3/d49c59fa6edf28b276480d1173fe673c/transformed/jetified-play-services-base-18.0.1/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/a1398/Desktop/fcl/FCLApp/build/firebase_messaging/intermediates/merged_res/release/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "/Users/a1398/.gradle/caches/transforms-3/d49c59fa6edf28b276480d1173fe673c/transformed/jetified-play-services-base-18.0.1/res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    }
+]

@@ -1,0 +1,4 @@
+#Thu Sep 15 16:35:32 PKT 2022
+base.0=/Users/a1398/Desktop/fcl/FCLApp/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

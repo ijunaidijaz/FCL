@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/a1398/Desktop/fcl/FCLApp/build/firebase_messaging/intermediates/merged_res/release/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/a1398/.gradle/caches/transforms-3/d49c59fa6edf28b276480d1173fe673c/transformed/jetified-play-services-base-18.0.1/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/a1398/Desktop/fcl/FCLApp/build/firebase_messaging/intermediates/merged_res/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/a1398/.gradle/caches/transforms-3/d49c59fa6edf28b276480d1173fe673c/transformed/jetified-play-services-base-18.0.1/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/a1398/Desktop/fcl/FCLApp/build/firebase_messaging/intermediates/merged_res/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/a1398/.gradle/caches/transforms-3/d49c59fa6edf28b276480d1173fe673c/transformed/jetified-play-services-base-18.0.1/res/color/common_google_signin_btn_text_dark.xml"
+    }
+]
